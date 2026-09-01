@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+
+h1 {
+  color: #003399; 
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.paragrafo-1 {
+  color: #1a252f; 
+  font-size: 1.1rem;
+}
+
+.paragrafo-2 {
+  color: #2b78e4; 
+  font-size: 1.1rem;
+}
+
+.paragrafo-3 {
+  color: #d97706; 
+  font-size: 1.1rem;
+  font-weight: bold;
+}
