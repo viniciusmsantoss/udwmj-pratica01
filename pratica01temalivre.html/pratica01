@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cruzeiro - Hexacampeão da Copa do Brasil 2018</title>
+  <link rel="stylesheet" href="pratica01temalivre.css">
+</head>
+
+<body>
+
+  <h1>Cruzeiro: O Hexacampeonato da Copa do Brasil em 2018</h1>
+
+  <p class="paragrafo-1">
+    Em 2018, o Cruzeiro Esporte Clube consagrou-se hexacampeão da Copa do Brasil ao derrotar o Corinthians na grande final, tornando-se o primeiro clube a vencer a competição em dois anos consecutivos (2017 e 2018).
+  </p>
+
+  <p class="paragrafo-2">
+    A campanha foi marcada por confrontos decisivos contra grandes equipes do futebol brasileiro, demonstrando a força e a tradição copeira do time sob o comando do técnico Mano Menezes.
+  </p>
+
+  <p class="paragrafo-3">
+    O gol histórico de Arrascaeta na Arena Corinthians selou a vitória por 2 a 1 no jogo de volta, eternizando aquela conquista no coração da torcida celeste como o sexto título da Copa do Brasil.
+  </p>
+
+</body>
+
+</html>
